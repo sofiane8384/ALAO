@@ -1,6 +1,6 @@
 
 public class Fraction implements Cloneable {
-	/**/
+	/******/
 	private int numerateur;
 	private int denominateur;
 
